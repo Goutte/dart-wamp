@@ -6,7 +6,7 @@ import 'dart:math';
 import 'dart:async';
 
 import 'package:wamp/wamp.dart';
-import 'package:uuid/uuid_server.dart';
+import 'package:uuid/uuid.dart';
 
 part 'src/server/client.dart';
 
